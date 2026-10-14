@@ -1,0 +1,78 @@
+{
+  "generated_utc": "2026-10-14T21:28:35+00:00",
+  "file_count": 18,
+  "files": {
+    "README.md": {
+      "sha256": "adc5d10d0640da4c60fc80aa24ec0e88b7603685a8f0d66ff0c09e336b7323cd",
+      "bytes": 490
+    },
+    "files/MEMORY.md": {
+      "sha256": "432319fda941525c63a28a91acfceeebef301783176470b49a1f003a7522ceee",
+      "bytes": 1715
+    },
+    "files/SOUL.md": {
+      "sha256": "3bd38ef92efb90d0fdda1bb73036185d4a4bc11079963cb0e2db71c84281e64e",
+      "bytes": 668
+    },
+    "files/USER.md": {
+      "sha256": "50ef39f2ddf78b6d064e3c5f41896ffdbf0061bde741cc728ebc2f4b04780f44",
+      "bytes": 1273
+    },
+    "sessions/2026-09-27.jsonl": {
+      "sha256": "ba500fcb51c6ca610c1ee891e31be1f9946ba7f29dc14327536f251811610f1d",
+      "bytes": 104099
+    },
+    "sessions/2026-10-03.jsonl": {
+      "sha256": "b18ac5503e0b22883362a8d690ee7b05e5259bf724adcd5927b38f1ec67d8fda",
+      "bytes": 2092535
+    },
+    "sessions/2026-10-04.jsonl": {
+      "sha256": "36754d4e36337b0ca114bd7a0e5fa88f8ac2d9c840e22fd313145c34e21608e5",
+      "bytes": 333993
+    },
+    "sessions/2026-10-05.jsonl": {
+      "sha256": "942980a768edeb32117b6966e48cdf7081e573af7ca29439d9f9e3e84ce803cd",
+      "bytes": 717190
+    },
+    "sessions/2026-10-09.jsonl": {
+      "sha256": "fb897c094f94b80c566a0bcec9f446bdc08bf345c05526ce1b77a79a2a634def",
+      "bytes": 381980
+    },
+    "sessions/2026-10-10.jsonl": {
+      "sha256": "5d8662d331065c14e436e7d2657a1280398198d52919c72615b90237495b528f",
+      "bytes": 851912
+    },
+    "sessions/2026-10-14.jsonl": {
+      "sha256": "386b9c8e15ed56a6cfdf3730b6bb0c25f65c65a39a36572b2028756b3aceab1b",
+      "bytes": 780051
+    },
+    "updates/2026-09-27.md": {
+      "sha256": "7ba587c8783fdceab5442c9a9c78e6fa5408313c587c52e0e9782843b60d61fd",
+      "bytes": 236
+    },
+    "updates/2026-10-03.md": {
+      "sha256": "23691be8dfa11921c9d311c6b08081415b1be74bd9ea0e3716007719ce034a76",
+      "bytes": 1863
+    },
+    "updates/2026-10-04.md": {
+      "sha256": "a8157d184fb7550b8daed854108d064ff4ebe7559d712eb050978cf6015d5064",
+      "bytes": 370
+    },
+    "updates/2026-10-05.md": {
+      "sha256": "4f4842c4acfc1b2fcc4d0f91dcafeb229830d4ecb8b01db8d6d528687a75b165",
+      "bytes": 775
+    },
+    "updates/2026-10-09.md": {
+      "sha256": "86f86a680b400e1efcd01d579f907ebf2077b08538abe17571d429fd8e066d2e",
+      "bytes": 690
+    },
+    "updates/2026-10-10.md": {
+      "sha256": "aaba53b547ac9a71c1c8124cf3e00bcb653aa38a3eb9b7c0b443ddc795823074",
+      "bytes": 901
+    },
+    "updates/2026-10-14.md": {
+      "sha256": "9a2e8b5006b7d0db691340ef3a0d12179ff070278d37a4c36a4df76734570796",
+      "bytes": 477
+    }
+  }
+}
