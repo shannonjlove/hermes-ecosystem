@@ -9,3 +9,7 @@ Tracks: C=session→GitHub (lovecloud_claude_backup_repo), D=BookStack docs (man
 Infra: SJL-SYSTEM-REGISTRY (authority), Oracle 100.67.229.94 (ARM64, Podman), Mac 100.120.234.104 (deploy).
 Governance: v10.3 pipeline, PARA_DATE__DOCID__TITLE__VERSION__SHA8.EXT, DOCID from registry, bookstack tagging.
 SSH: ED25519 key on GitHub (shannonjlove), all private repos accessible.
+§
+Daily memory sync: /opt/data/scripts/hermes_memory_sync.py builds /opt/data/memory/ (sessions, updates, files, backups; redacted) and pushes memory/ to 6 repos via SSH. Cron job 06fc0553f2dc at 03:00 UTC, no_agent.
+§
+Hermes docs offline copy: skill hermes-docs-reference (/opt/data/skills/hermes-docs-reference) — 239 split pages + lookup script; use it before guessing Hermes config/plugin behaviour.
